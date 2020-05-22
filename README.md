@@ -1,4 +1,4 @@
 # Patatap
 
 ### Become a DJ with your keyboard 
-<a href="https://douglas06mp.github.io/Patatap/">Demo</a>
+## Demo [GitHub page](https://douglas06mp.github.io/javascript-patatap/)
